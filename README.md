@@ -4,4 +4,11 @@ Item-based Collaborative Filtering System using user interest like overview,genr
 
 Datset- tmdb_5000_movies
         tmdb_5000_credits
-        
+
+Table of contents
+Loading Dataset
+Selecting features for model
+CountVectorizer
+cosine_similarity
+Prediction
+Saving Files
